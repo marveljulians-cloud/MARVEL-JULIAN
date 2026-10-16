@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Monitoring Pengiriman & Stok PT. MBP",
+  "description": "Sistem pemantauan pesanan belum kirim dan stok titipan dengan auto-parse screenshot WhatsApp via AI, link publik read-only, dan portal pengelola.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
